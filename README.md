@@ -7,7 +7,7 @@ To run proposed algorithms, we provide some example scripts and data.
 
 ## Datasets
 
-The datasets used in the paper can be found in the 'datasets' directory. Datasets directory includes Extended Yale B dataset from [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html), the USPS dataset from [https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps), the MNIST dataset from [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/) and ISOLET1 dataset from the UCI Machine Learning Repository ([https://archive.ics.uci.edu/ml/datasets/isolet](https://archive.ics.uci.edu/ml/datasets/isolet)).
+The datasets used in the paper can be found in the 'datasets' directory. Datasets directory includes Extended Yale B dataset from [http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html), the USPS dataset from [https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#usps), the MNIST dataset from [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/), and the ISOLET1 dataset from the UCI Machine Learning Repository ([https://archive.ics.uci.edu/ml/datasets/isolet](https://archive.ics.uci.edu/ml/datasets/isolet)).
 
 ## Citing
 
