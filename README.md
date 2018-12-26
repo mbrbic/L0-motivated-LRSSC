@@ -11,7 +11,7 @@ The datasets used in the paper can be found in the 'datasets' directory. Dataset
 
 ## Citing
 
-When using the code in your research work, please cite "Multi-view Low-rank Sparse Subspace Clustering" by Maria Brbic and Ivica Kopriva.
+When using the code in your research work, please cite "ℓ₀-Motivated Low-Rank Sparse Subspace Clustering" by Maria Brbic and Ivica Kopriva.
 
     @article{brbic2018,
     title={$\ell_0$-Motivated Low-Rank Sparse Subspace Clustering},
