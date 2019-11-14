@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this repository we provide MATLAB implementations of GMC-LRSSC and L0-LRSSC proposed in [L0-Motivated Low-Rank Sparse Subspace Clustering](https://ieeexplore.ieee.org/document/8573150). GMC-LRSSC solves subspace clustering problem by using regularization based on multivariate generalization of the minimax-concave (GMC) penalty function. L0-LRSSC solves the Schatten-0 and L0 quasi-norm regularized objective.
+In this repository MATLAB implementations of GMC-LRSSC and L0-LRSSC proposed in [L0-Motivated Low-Rank Sparse Subspace Clustering](https://ieeexplore.ieee.org/document/8573150) is provided. GMC-LRSSC solves subspace clustering problem by using regularization based on multivariate generalization of the minimax-concave (GMC) penalty function. L0-LRSSC solves the Schatten-0 and L0 quasi-norm regularized objective.
 To run proposed algorithms, we provide some example scripts and data.
 
 ## Datasets
